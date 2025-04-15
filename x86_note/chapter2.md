@@ -150,6 +150,6 @@ The EFLAGS register contains various bit-flags that reflect the outcome of opera
 
 ## 🔗 Navigation
 
-- ⬅️ [Previous: Chapter 1 – Number System](./x86_note/chapter1.md)
-- ➡️ [Next: Chapter 3 – IA-32 Stack, ESP, and Function Call Mechanism](./x86_note/chapter3.md)
+- ⬅️ [Previous: Chapter 1 – Number System](./chapter1.md)
+- ➡️ [Next: Chapter 3 – IA-32 Stack, ESP, and Function Call Mechanism](./chapter3.md)
 
