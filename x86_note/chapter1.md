@@ -96,4 +96,4 @@ Convert each hex digit to 4-bit binary.
 
 ## 🔗 Navigation
 
-- ➡️ [Next: Chapter 2 – Computer Organization & Architecture](./x86_note/chapter2.md)
+- ➡️ [Next: Chapter 2 – Computer Organization & Architecture](./chapter2.md)
